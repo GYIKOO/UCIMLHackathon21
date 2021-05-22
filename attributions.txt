@@ -1,0 +1,9 @@
+
+1. Application of BERT : Binary Text Classification
+   https://iq.opengenus.org/binary-text-classification-bert/
+
+2. SMOTE for Imbalanced Classification with Python
+   https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
+3. Class weights calculation from TensorFlow Document
+   https://www.tensorflow.org/tutorials/structured_data/imbalanced_data#class_weights
